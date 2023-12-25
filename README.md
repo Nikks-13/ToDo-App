@@ -7,7 +7,8 @@ A Simple Todo Web App made with React JS and Reactstrap.Users can see all the ta
 ## Screenshots
 
 ![App Screenshot](https://github.com/Nikks-13/ToDo-App/blob/main/screenshots/Screenshot%201.png?raw=true)
-
+![App Screenshot](https://github.com/Nikks-13/ToDo-App/blob/main/screenshots/Screenshot%202.png?raw=true)
+![App Screenshot](https://raw.githubusercontent.com/Nikks-13/ToDo-App/main/screenshots/Screenshot%203.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
